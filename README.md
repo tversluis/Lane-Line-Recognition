@@ -4,17 +4,12 @@ Uses Open CV to recognize lane lines in a driving test video.
 
 <html>
    <head>
-   <!--
-       .misspelled {
-           color: red;
-       }
-       .corrected {
-           color: blue;
-       }
-   -->
+   
    </head>
 
    <body>
-   
+   <object width="420" height="315"
+      data="https://www.youtube.com/v/tgbNymZ7vqY">
+   </object>
    </body>
-   </html>
+</html>

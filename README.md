@@ -4,7 +4,6 @@ Uses Open CV to recognize lane lines in a driving test video.
 
 <html>
    <head>
-   <title>Spell Check - myFile1.txt</title>
    <style type="text/css">
    <!--
        .misspelled {

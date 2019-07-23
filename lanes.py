@@ -64,7 +64,7 @@ def region_of_interest(image):
 # cv2.waitKey(0)
 
 # USE ANALYSIS ON VIDEO
-cap = cv2.VideoCapture("test2.mp4")
+cap = cv2.VideoCapture("test2_Trim.mp4")
 while(cap.isOpened()):
     _, frame = cap.read()
     canny_image = canny(frame)
